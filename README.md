@@ -15,5 +15,5 @@ npm install
 npm test
 ```
 
-## Running the tests
+## Test Results
 ![test_results](https://user-images.githubusercontent.com/11692981/79923149-0fe0d400-8489-11ea-9755-fa7ffdb4f185.png)
